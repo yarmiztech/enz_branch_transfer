@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_inter_branch_transfer,inter.branch.transfer,model_inter_branch_transfer,,1,1,1,1
+access_inter_branch_transfer_line,inter.branch.transfer.line,model_inter_branch_transfer_line,,1,1,1,1
